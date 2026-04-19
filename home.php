@@ -12,7 +12,7 @@ if(!isset($_SESSION['user_session'])){  //User_session
 <!DOCTYPE html>
 <html>
 <head>
-  <title>SPMS</title>
+  <title>pharm@monitor | Dashboard</title>
    <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
   <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">

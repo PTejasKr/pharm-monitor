@@ -3,7 +3,7 @@
 /vendor/
 
 # Database
-*.sql
+# pharm_monitor.sql included for deployment
 
 # System Files
 .DS_Store
